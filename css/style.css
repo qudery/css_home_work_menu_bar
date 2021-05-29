@@ -1,0 +1,51 @@
+body{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+
+}
+
+header{
+    background-color: grey;
+    padding: 0.0;
+}
+.container{
+width: 70%;
+margin: auto;
+}
+.navigation-Menu{
+    overflow: hidden;
+    
+
+}
+.logo{
+    width: 40%;
+    float: right;
+}
+.logo image{
+    width: 100%;
+}
+
+.menu{
+    float: left;
+    width: 75%;
+    }
+.Menu nav{}
+.Menu nav li{}
+.Menu nav ul li{
+    list-style: none;
+    float: left;
+}
+.Menu nav ul a{
+    font-size: 20px;
+    font-weight: 600;
+    color:floralwhite;
+    line-height: 30px;
+    text-transform: capitalize;
+    text-decoration: none;
+    padding: 0 30px
+}
+.Menu nav ul li a :hover{
+    background:green (0.0.0.7)
+    border- radius: 6px
+}
